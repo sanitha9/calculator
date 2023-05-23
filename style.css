@@ -1,0 +1,88 @@
+body{
+    background-color:rgb(241, 236, 229);
+    margin-bottom: 60px;
+    
+}
+body h1{
+    text-align: center;
+    margin-top:60px;
+
+    /* color:violet; */
+}
+.container{
+background-color: white; 
+  width: 38rem;
+  height:45rem;
+    margin-top:4rem;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 35px #888888;
+}
+/* .result{
+  border-radius: 30px;
+  margin-left:10rem;
+  margin-top:10rem;
+   
+
+
+} */
+.box{
+background-color:whitesmoke;
+width:500px;
+ height:130px;
+  margin-left:3rem;
+  margin-top:2rem; 
+  text-align: right;
+  text-decoration: solid;
+  text-decoration-color: black;
+   font-size:50px;
+    /* color: black; */
+    border-radius:25px;
+    box-shadow: inset 5px 0px 10px #888888;
+    
+/*opacity: 0.2; */
+}
+.table{
+  margin-top:3rem;
+  margin-left:1rem;
+}
+
+
+.btn{
+    background-color:whitesmoke;
+    width: 6rem;
+     height: 5rem;
+}
+
+
+/* .row2{
+    margin-left: 35rem;
+    margin-top:5rem ;
+    color: black;
+    
+  }
+  .row3{
+    margin-left: 35rem;
+    margin-top:5rem ;
+    color: black;
+    
+  }
+  .row4{
+    margin-left: 35rem;
+    margin-top:5rem ;
+    color: black;
+    
+  }
+  .row5{
+    margin-left: 35rem;
+    margin-top:5rem ;
+    color: black;
+    
+  } */
+  /* .display-box {
+    margin-left: 20rem;
+     margin-top:3rem;
+        */
+    
+  
